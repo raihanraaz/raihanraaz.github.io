@@ -1,4 +1,6 @@
 #Add www to any URLs that do not have them:
 RewriteEngine on
-RewriteCond %{HTTP_HOST} !^www\.
-RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+RewriteBase/
+RewriteCond%{HTTP_HOST} 
+^www.raihanraaz.ml[NC]
+RewriteRule^(.*)$ http://raihanraaz.ml%{HTTP_HOST}/$1 [R=301,L]
