@@ -1,1 +1,1 @@
-Sitemap: http://raihanraaz.ml/sitemap.xml
+Sitemap: http://raihanraaz.ml/sitemap_location.xml
