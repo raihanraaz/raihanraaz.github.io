@@ -1,2 +1,4 @@
 plugins:
   - jekyll-sitemap
+
+http://google.com/ping?sitemap=https://raihanraaz.ml/sitemap.xml
